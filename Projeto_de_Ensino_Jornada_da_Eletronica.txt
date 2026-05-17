@@ -1,0 +1,130 @@
+PROJETO DE ENSINO
+
+1. CARACTERIZAÇÃO DO PROJETO
+
+Título:
+Jornada da Eletrônica: Atividades Formativas em Eletrônica para Estudantes da Graduação
+
+Carga horária total:
+60 horas
+
+Coordenador/Responsável pela proposta:
+Felipe W. D. Pfrimer
+
+Período de execução:
+01/04/2026 a 31/12/2026, conforme calendário acadêmico vigente, sem considerar período de férias.
+
+Justificativa para registro retroativo:
+O projeto iniciou seus trabalhos com a realização de um minicurso de microcontroladores em 22/04/2026. Dessa forma, o presente projeto está sendo registrado de forma retroativa, pois, no momento de início das atividades, ainda não estavam estabelecidos os procedimentos de registro para um projeto de ensino dessa natureza.
+
+Público atendido:
+Alunos do curso de graduação em Engenharia Eletrônica da UTFPR - Campus Toledo. A depender da natureza da atividade, da disponibilidade de vagas e dos pré-requisitos definidos pela equipe executora, as ações também poderão ser assistidas por alunos de outros cursos e campi da UTFPR, servidores e pessoas externas à instituição.
+
+Colaboradores internos:
+Alberto Y. Nakano - docente, vice-coordenador.
+Ivanir Marchetti - técnico administrativo, equipe executora.
+Andre Hoffmann - aluno, equipe executora.
+Lucas S. D. Oliveira - aluno, equipe executora.
+Luis A. Martignago - aluno, equipe executora.
+Guilherme T. Morais - aluno, equipe executora.
+Beatriz A. P. Takemori - aluna, equipe executora.
+Marcos Poier - aluno, equipe executora.
+Luccas H. L. Johann - aluno, equipe executora.
+
+Colaboradores externos (se houver):
+Não se aplica.
+
+
+2. RESUMO DO PROJETO
+
+O projeto de ensino "Jornada da Eletrônica: Atividades Formativas em Eletrônica para Estudantes da Graduação" tem como finalidade complementar a formação acadêmica dos estudantes do curso de Engenharia Eletrônica da UTFPR - Campus Toledo por meio da organização de atividades formativas sob demanda, voltadas ao aprofundamento de conhecimentos teóricos e práticos da área.
+
+A proposta busca criar um espaço permanente de aprendizagem aplicada, no qual estudantes possam participar da organização, preparação, execução e avaliação de atividades relacionadas a temas como fundamentos de eletrônica, circuitos elétricos e eletrônicos, sistemas embarcados, microcontroladores, automação, Internet das Coisas, robótica, instrumentação e aplicações de eletrônica em energia e processos industriais.
+
+As atividades poderão assumir formatos variados, como encontros técnicos, oficinas internas, minicursos, estudos orientados, demonstrações práticas, apoio a práticas de laboratório, elaboração de materiais didáticos e ações de integração entre componentes curriculares. A definição das atividades ocorrerá conforme demandas identificadas no curso, disponibilidade da equipe executora e necessidades formativas dos estudantes.
+
+Os trabalhos do projeto foram iniciados em 22/04/2026, com a realização de um minicurso de microcontroladores. O registro formal da proposta ocorre de maneira retroativa em razão de, naquele momento, ainda não estarem estabelecidos os procedimentos de registro para projetos de ensino com essa natureza e formato de execução.
+
+O foco do projeto é o fortalecimento do processo de ensino-aprendizagem no âmbito da Engenharia Eletrônica, promovendo o protagonismo estudantil, a aprendizagem colaborativa, a articulação entre teoria e prática e o desenvolvimento de competências técnicas, organizacionais e comunicacionais relevantes para a formação profissional dos discentes. Conforme as características de cada atividade, poderão participar como ouvintes alunos de outros cursos e campi, servidores e pessoas externas, desde que atendidos os pré-requisitos eventualmente estabelecidos.
+
+
+3. OBJETIVOS
+
+Objetivo principal:
+Complementar a formação dos estudantes do curso de Engenharia Eletrônica por meio de atividades formativas sob demanda, integrando conhecimentos teóricos e práticos da área de eletrônica e fortalecendo o processo de ensino-aprendizagem.
+
+Objetivos específicos:
+
+1. Organizar atividades formativas internas relacionadas a temas relevantes da eletrônica, conforme demandas identificadas no curso.
+
+2. Promover a aplicação prática de conceitos estudados em disciplinas da graduação, especialmente por meio de atividades de laboratório, demonstrações, oficinas e estudos orientados.
+
+3. Estimular o protagonismo discente na preparação, execução e avaliação das atividades, contribuindo para o desenvolvimento de habilidades técnicas, comunicacionais, organizacionais e de trabalho em equipe.
+
+4. Elaborar relatórios sobre cada atividade realizada, permitindo o registro das ações desenvolvidas, o acompanhamento dos resultados e a melhoria contínua do projeto.
+
+
+4. JUSTIFICATIVAS
+
+A eletrônica é uma área estratégica para o desenvolvimento tecnológico e industrial, estando presente em sistemas de automação, telecomunicações, computação embarcada, energia, saúde, agronegócio, instrumentação e diversos outros setores. No curso de Engenharia Eletrônica, a consolidação dos conhecimentos exige não apenas o estudo teórico dos conteúdos, mas também oportunidades recorrentes de experimentação, integração de conceitos e resolução de problemas práticos.
+
+Nesse contexto, a "Jornada da Eletrônica" é proposta como um projeto de ensino destinado a ampliar as possibilidades de aprendizagem dos estudantes da graduação. A realização de atividades formativas sob demanda permite responder a necessidades concretas percebidas ao longo do curso, como reforço de fundamentos, aprofundamento de temas específicos, preparação para atividades de laboratório, integração entre disciplinas e desenvolvimento de projetos aplicados.
+
+A proposta também contribui para a formação integral dos discentes que atuarem na equipe executora, pois esses estudantes poderão participar da organização das atividades, da preparação de materiais, da condução de demonstrações e do acompanhamento dos participantes. Essa experiência favorece o desenvolvimento de autonomia, responsabilidade, comunicação técnica, liderança, planejamento e trabalho colaborativo.
+
+Ao se configurar como projeto de ensino, a proposta tem foco pedagógico, voltado ao apoio ao percurso formativo dos estudantes. As ações serão prioritariamente direcionadas aos discentes da graduação, com o objetivo de fortalecer a aprendizagem, estimular o interesse pela área de eletrônica e aproximar os conteúdos curriculares de situações práticas e profissionais. Quando a natureza da atividade permitir, a participação poderá ser ampliada para alunos de outros cursos e campi, servidores e pessoas externas à instituição, observados os pré-requisitos técnicos e a disponibilidade de vagas.
+
+
+5. CONTEÚDO PROGRAMÁTICO
+
+O conteúdo programático será definido conforme as demandas identificadas durante a execução do projeto, podendo contemplar, entre outros, os seguintes temas:
+
+- Fundamentos de circuitos elétricos e eletrônicos.
+- Componentes eletrônicos, sensores e atuadores.
+- Instrumentação eletrônica e uso de equipamentos de laboratório.
+- Montagem, teste e análise de circuitos.
+- Microcontroladores e sistemas embarcados.
+- Programação aplicada a dispositivos eletrônicos.
+- Automação residencial e industrial.
+- Internet das Coisas (IoT).
+- Robótica e integração de sistemas.
+- Eletrônica aplicada a sistemas de energia.
+- Elaboração de materiais didáticos e roteiros de atividades práticas.
+- Organização, registro e avaliação de atividades formativas.
+
+
+6. MODALIDADE, METODOLOGIA E INFRAESTRUTURA
+
+O projeto será desenvolvido preferencialmente na modalidade presencial, com possibilidade de atividades remotas ou híbridas quando o formato for adequado aos objetivos pedagógicos da ação. As atividades presenciais poderão ocorrer em salas de aula, laboratórios ou outros espaços da UTFPR - Campus Toledo, conforme disponibilidade institucional e necessidades de cada atividade.
+
+A metodologia será baseada na organização de atividades formativas sob demanda. A equipe executora realizará reuniões periódicas para identificar necessidades, definir temas, planejar formatos, distribuir responsabilidades, preparar materiais e organizar a execução das atividades. As ações poderão incluir oficinas, minicursos, encontros técnicos, estudos orientados, demonstrações práticas, apoio a atividades de laboratório e produção de materiais didáticos.
+
+As atividades deverão valorizar a articulação entre teoria e prática, incentivando a participação ativa dos estudantes. Sempre que pertinente, serão utilizados exemplos aplicados, montagens experimentais, simulações, análise de circuitos, programação de dispositivos, estudos de caso e discussão de soluções para problemas técnicos.
+
+A participação será definida de acordo com a natureza de cada atividade. Algumas ações poderão ser voltadas especificamente aos estudantes da Engenharia Eletrônica, enquanto outras poderão ser assistidas por alunos de outros cursos e campi da UTFPR, servidores e pessoas externas, desde que haja disponibilidade de vagas e que sejam atendidos os pré-requisitos estabelecidos para o melhor aproveitamento da atividade.
+
+O acompanhamento das atividades será realizado por meio de registros de participação, quando aplicável, e pela elaboração de relatórios sobre cada atividade desenvolvida. Esses relatórios deverão conter, no mínimo, a descrição da atividade, data, local ou modalidade, equipe envolvida, público participante, objetivos, conteúdos abordados, resultados observados e sugestões de melhoria.
+
+A avaliação do projeto ocorrerá de forma contínua, considerando a realização das atividades planejadas, a aderência das ações às demandas formativas, a participação dos estudantes, a qualidade dos materiais produzidos e os registros apresentados nos relatórios. Ao final do período de execução, será elaborado um relatório final consolidando as atividades realizadas, os resultados alcançados, as dificuldades encontradas e as recomendações para futuras edições.
+
+Quanto à infraestrutura, serão utilizados prioritariamente recursos já disponíveis na UTFPR - Campus Toledo, como salas de aula, laboratórios, equipamentos de medição, computadores, kits didáticos, placas de desenvolvimento, componentes eletrônicos e demais materiais institucionais pertinentes. Não há previsão inicial de necessidade de recursos financeiros externos.
+
+
+7. CRONOGRAMA
+
+O cronograma será organizado de forma flexível, considerando a natureza sob demanda das atividades e o início do projeto em 01/04/2026:
+
+1. Organização das atividades sob demanda:
+01/04/2026 a 30/11/2026.
+As atividades serão organizadas conforme necessidades formativas identificadas, disponibilidade da equipe executora, calendário acadêmico, pré-requisitos necessários e disponibilidade de infraestrutura.
+
+2. Elaboração de relatórios de cada atividade:
+01/04/2026 a 30/11/2026.
+Após a realização de cada atividade, será elaborado relatório com registro das ações desenvolvidas, participantes envolvidos, conteúdos trabalhados, resultados observados e sugestões de melhoria.
+
+3. Elaboração do relatório final:
+01/12/2026 a 31/12/2026.
+Desenvolvimento e finalização do relatório final, com consolidação das atividades realizadas, análise dos resultados, dificuldades encontradas e recomendações para continuidade ou aprimoramento da proposta.
+
+
+Toledo, 17 de maio de 2026.
