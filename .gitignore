@@ -15,6 +15,7 @@
 *.synctex.gz
 *.toc
 *.vrb
+*.xdv
 
 # Temporary previews generated during report checking
 preview_*.png
@@ -31,5 +32,6 @@ CH32V003_repo/
 .DS_Store
 Thumbs.db
 desktop.ini
-.vscode/
+.vscode/*
+!.vscode/settings.json
 .idea/

@@ -1,3 +1,4 @@
+% !TEX program = xelatex
 \documentclass[12pt,a4paper]{article}
 
 \usepackage[a4paper,margin=2.4cm,headheight=16pt]{geometry}
@@ -64,6 +65,7 @@
 }
 
 \newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\newcommand{\email}[1]{\href{mailto:#1}{\nolinkurl{#1}}}
 
 \newcommand{\infobox}[1]{%
     \vspace{0.2cm}
@@ -127,7 +129,7 @@ Tema & Introdução à programação do microcontrolador CH32V003, com foco em f
 Apoio técnico da empresa & Não se aplica. \\
 Apoio técnico docente & Felipe Walter Dafico Pfrimer. \\
 Apoio técnico do Centro Acadêmico & Centro Acadêmico de Engenharia Eletrônica da UTFPR - Campus Toledo. \\
-Quantidade de participantes & Não registrada no material disponível. \\
+Quantidade de participantes & 12 participantes registrados. \\
 \end{tabularx}
 }
 
@@ -214,9 +216,10 @@ Esta seção reúne o material de divulgação e alguns registros fotográficos 
     \hfill
     \begin{subfigure}{0.48\textwidth}
         \centering
-        \includegraphics[width=\linewidth,angle=270]{figuras/20260422_185032.jpg}
+        \includegraphics[width=\linewidth,angle=0]{figuras/20260422_185032.jpg}
         \caption{Participantes acompanhando a exposição.}
     \end{subfigure}
+    \caption{Exposição inicial do minicurso no Laboratório E207.}
 \end{figure}
 
 \begin{figure}[H]
@@ -232,14 +235,15 @@ Esta seção reúne o material de divulgação e alguns registros fotográficos 
         \includegraphics[width=\linewidth]{figuras/20260422_191931.jpg}
         \caption{Atividade em ambiente de laboratório.}
     \end{subfigure}
+    \caption{Discussão técnica e interação com os participantes durante o minicurso.}
 \end{figure}
 
 \begin{figure}[H]
     \centering
     \begin{subfigure}{0.48\textwidth}
         \centering
-        \includegraphics[width=\linewidth,angle=270]{figuras/20260422_193645.jpg}
-        \caption{Acompanhamento dos participantes durante a atividade.}
+        \includegraphics[width=\linewidth]{figuras/20260422_193645.jpg}
+        \caption{Microcontrolador CH32V003 em placa de desenvolvimento utilizada na atividade.}
     \end{subfigure}
     \hfill
     \begin{subfigure}{0.48\textwidth}
@@ -247,11 +251,36 @@ Esta seção reúne o material de divulgação e alguns registros fotográficos 
         \includegraphics[width=\linewidth,angle=270]{figuras/20260422_204418.jpg}
         \caption{Coffee break ao final do minicurso.}
     \end{subfigure}
+    \caption{Registro da placa utilizada no minicurso e momento de encerramento da atividade.}
 \end{figure}
 
 \section{Lista de Participantes}
 
-A lista de participantes não foi localizada entre os arquivos disponibilizados para a elaboração deste relatório. Recomenda-se anexá-la posteriormente, caso esteja disponível em formulário, plataforma de inscrição ou lista de presença física.
+A lista de participantes foi consolidada a partir da relação de inscritos/presença e das listas de alunos regulares dos cursos de Engenharia Eletrônica e Engenharia de Computação. Como alguns registros originais estavam incompletos, os nomes, códigos RA e e-mails foram conferidos por cruzamento entre os documentos disponíveis.
+
+\begin{table}[H]
+    \centering
+    \small
+    \begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.38\textwidth}>{\centering\arraybackslash}p{0.16\textwidth}Y}
+        \toprule
+        \textbf{Nome completo do participante} & \textbf{Código RA} & \textbf{E-mail} \\
+        \midrule
+        André Hoffmann & 2278367 & \email{ahoffmann@alunos.utfpr.edu.br} \\
+        Augusto Aragão Silva & 2461030 & \email{augsl@alunos.utfpr.edu.br} \\
+        Enzo Paiva Ramos & 2314606 & \email{enzopaiva@alunos.utfpr.edu.br} \\
+        Gabriel Angeli de Almeida & 2370883 & \email{gabrielangeli@alunos.utfpr.edu.br} \\
+        Gabriel Mateus Cavalheiro & 2035545 & \email{cavalheiro@alunos.utfpr.edu.br} \\
+        Guilherme Alexandre Livi Chini & 2369427 & \email{guilhermechini@alunos.utfpr.edu.br} \\
+        Luccas Hernanny Lima Johann & 2460556 & \email{luccasjohann@alunos.utfpr.edu.br} \\
+        Luís Vinícius Balta Nunes & 2614421 & \email{luisvinicius@alunos.utfpr.edu.br} \\
+        Marco Antônio Amaral Galante & 2205068 & \email{marcoantoniogalante@alunos.utfpr.edu.br} \\
+        Pietro Rodrigues Kalinoski & 2777851 & \email{pietrokalinoski@alunos.utfpr.edu.br} \\
+        Samuel Eudes Heinrichs & 2295733 & \email{samuelheinrichs@alunos.utfpr.edu.br} \\
+        Vinícius Eduardo Ganda de Carvalho & 2871084 & \email{vinicius.e.g.carvalho@gmail.com} \\
+        \bottomrule
+    \end{tabularx}
+    \caption{Participantes identificados no minicurso.}
+\end{table}
 
 \section{Outras Informações}
 
