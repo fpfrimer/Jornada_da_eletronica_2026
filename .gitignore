@@ -21,6 +21,7 @@ preview_*.png
 
 # Extracted/intermediate files
 *_extraido.txt
+ocr_pages/
 Relatorio_Atividades_2025_media/
 
 # Local cloned/reference repositories
