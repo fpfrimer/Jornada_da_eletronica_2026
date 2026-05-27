@@ -19,6 +19,7 @@
 
 # Temporary previews generated during report checking
 preview_*.png
+**/_preview/
 
 # Extracted/intermediate files
 *_extraido.txt
